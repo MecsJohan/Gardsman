@@ -1010,7 +1010,7 @@ button#consentAcceptButton {
   #hestra-sizeguide.xs {
     height: 800px; } }*/
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 499px) {
 .slot--cookies {
     position: fixed;
     bottom: 45%;
