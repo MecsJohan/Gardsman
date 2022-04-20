@@ -983,7 +983,7 @@ body.checkout.modal_active {
 /*Cookierutan*/
 .slot--cookies {
     position: fixed;
-    bottom: 50%;
+    bottom: 45%;
     left: 50%;
   margin-left:-200px;
     z-index: 1500;
