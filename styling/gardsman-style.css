@@ -1018,5 +1018,7 @@ button#consentAcceptButton {
   margin-left:0px;
     z-index: 1500;
     width: 100%;
+  padding:15px;
 }
+
 }
