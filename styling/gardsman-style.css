@@ -984,7 +984,8 @@ body.checkout.modal_active {
 .slot--cookies {
     position: fixed;
     bottom: 50%;
-    left: 40%;
+    left: 50%;
+  margin-left:-200px;
     z-index: 1500;
     width: 100%;
 }
