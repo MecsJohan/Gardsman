@@ -981,6 +981,7 @@ body.checkout.modal_active {
 
 
 /*Cookierutan*/
+
 .slot--cookies {
     position: fixed;
     bottom: 45%;
@@ -1000,4 +1001,22 @@ button#consentAcceptButton {
 
 .tws-accept-cookies--accept .btn {
     margin: 10px 5px 0 0;
+}
+
+/*@media screen and (max-width: 1330px) {
+  #hestra-sizeguide.sm {
+    height: 810px; } }
+@media screen and (max-width: 810px) {
+  #hestra-sizeguide.xs {
+    height: 800px; } }*/
+
+@media screen and (max-width: 500px) {
+.slot--cookies {
+    position: fixed;
+    bottom: 45%;
+    left: 0;
+  margin-left:0px;
+    z-index: 1500;
+    width: 100%;
+}
 }
