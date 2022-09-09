@@ -1027,3 +1027,6 @@ button#consentAcceptButton {
 .twsPriceRegular {
     display: none !important;
 }
+.tws-article-price--compare-at-price {
+    display: none !important;
+}
